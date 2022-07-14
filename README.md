@@ -1,3 +1,5 @@
+![deploy](https://github.com/OpenTechStrategies/arches-demo/actions/workflows/deploy.yml/badge.svg)
+
 # arches-demo
 A quick demonstration of a potential arches interface
 
