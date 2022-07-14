@@ -1,4 +1,4 @@
-![deploy](https://github.com/OpenTechStrategies/arches-demo/actions/workflows/deploy.yml/badge.svg)
+![publish](https://github.com/OpenTechStrategies/arches-demo/actions/workflows/publish.yml/badge.svg)
 
 # Arches Demo
 
