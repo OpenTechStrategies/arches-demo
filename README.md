@@ -1,5 +1,8 @@
-# arches-demo
-A quick demonstration of a potential arches interface
+![deploy](https://github.com/OpenTechStrategies/arches-demo/actions/workflows/deploy.yml/badge.svg)
+
+# Arches Demo
+
+A quick demonstration of a potential arches interface.  It can be [viewed here](https://opentechstrategies.github.io/arches-demo/) 
 
 ## Project setup
 ```
